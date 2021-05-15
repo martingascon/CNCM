@@ -1,4 +1,4 @@
-# Martin Gascon. Data Scientist @ Intertek 
+# Martin Gascon. Data Scientist 
 setwd('~/Dropbox/a_intertek/R-macros/') 
 
 # MODIFIABLE VARIABLES ##################################################
